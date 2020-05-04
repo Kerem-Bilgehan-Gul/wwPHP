@@ -22,7 +22,7 @@ This plugin uses the following resources for data :
 
 == Installation ==
 
-1.Upload the Github File List Widget Plugin zip file to your blog, activate it, and then enter your Youtube API key.
+1.Upload the Github File List Widget Plugin zip file to your blog, activate it, and then enter your Github API Token key.
 
 == Screenshots ==
 

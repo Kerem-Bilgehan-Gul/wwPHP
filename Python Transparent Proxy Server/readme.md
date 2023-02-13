@@ -2,7 +2,7 @@ Transparent Proxy Server with Python.
 
 This Proxy Server listen 9091 port and log to file.
 
-Dependencies:twisted,fastapi,getmac
+Dependencies:twisted,fastapi,getmac 
 pip install twisted
 pip install --no-cache fastapi
 pip install getmac
